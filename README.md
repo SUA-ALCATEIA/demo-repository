@@ -20,6 +20,7 @@ Toda atualização deve derivar da última versão aplicável, preservar a rastr
 | ALC-INS-PRO-2026-001 | Proposta de Inteligência Aplicada à Agência Vieira Comunicação | V1.0 | Validado para apresentação | Uso específico aprovado | Confidencial | 29/08/2026 |
 | ALC-OPS-NOM-2026-001 | Padrão de Nomenclatura, Governança e Rastreabilidade Documental da ALCATEIA | V1.1 | Validado | Vigente | Interno | 13/10/2026 |
 | ALC-OPS-NOM-2026-001 | Padrão de Nomenclatura, Governança e Rastreabilidade Documental da ALCATEIA | V1.0 | Validado | Histórico — substituído pela V1.1 | Interno | 06/09/2026 |
+| ALC-INS-CTO-2026-001 | Contrato Operacional Mestre | V3.9 | Validado | Referência corrente — homologação operacional pendente | Interno | 13/10/2026 |
 
 ## Regra de consulta
 
